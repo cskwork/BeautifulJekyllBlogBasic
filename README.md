@@ -1,3 +1,7 @@
+
+BASIC BLOG SET 
+https://cskwork.github.io/BeautifulJekyllBlogBasic/
+
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
